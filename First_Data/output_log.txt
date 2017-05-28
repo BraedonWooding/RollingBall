@@ -1,0 +1,54 @@
+Initialize engine version: 5.0.2f1 (0b02744d4013)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 780  (ID=0x1004)
+    Vendor:   NVIDIA
+    VRAM:     2997 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\New\Documents\RollingBall\First_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\New\Documents\RollingBall\First_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\New\Documents\RollingBall\First_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\New\Documents\RollingBall\First_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\New\Documents\RollingBall\First_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\New\Documents\RollingBall\First_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\New\Documents\RollingBall\First_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\New\Documents\RollingBall\First_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.054 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1200 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\New\Documents\RollingBall\First_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\New\Documents\RollingBall\First_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 124c -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.414871 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 404.
+Total: 0.848054 ms (FindLiveObjects: 0.015825 ms CreateObjectMapping: 0.010550 ms MarkObjects: 0.805233 ms  DeleteObjects: 0.005275 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.382291 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 391.
+Total: 0.192697 ms (FindLiveObjects: 0.039408 ms CreateObjectMapping: 0.019238 ms MarkObjects: 0.128775 ms  DeleteObjects: 0.004964 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.358088 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 427.
+Total: 0.196421 ms (FindLiveObjects: 0.016445 ms CreateObjectMapping: 0.008998 ms MarkObjects: 0.165080 ms  DeleteObjects: 0.005585 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.421389 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 434.
+Total: 0.190835 ms (FindLiveObjects: 0.026065 ms CreateObjectMapping: 0.018307 ms MarkObjects: 0.140877 ms  DeleteObjects: 0.004654 ms)
+
+Level '005' (-1) couldn't be loaded because it has not been added to the build settings.
+To add a level to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 272)
+
